@@ -53,7 +53,7 @@ All pages share a consistent design system and styling.
 
 🌐 Live Demo
 	•	Live Website: 
-	•	GitHub Repository: 
+	•	GitHub Repository: https://github.com/pavan-devarshan/bootstrap5-								   responsive-website
 
 ⸻
 
